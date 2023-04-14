@@ -1,0 +1,1001 @@
+Crash_Year,Crash_Month,County,Crash_Type,Crash_Drug_Use,Crash_Drinking,Crash_Hit_and_Run,Speed_Limit_at_Crash_Site,Total_Motor_Vehicles,Crash
+2013,January,Barry,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Barry,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Bay,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Berrien,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2013,January,Branch,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Calhoun,Head-On - Left Turn,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2013,January,Clinton,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Delta,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Delta,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Eaton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Eaton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,January,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2013,January,Genesee,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2013,January,Genesee,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2013,January,Genesee,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2013,January,Grand Traverse,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Grand Traverse,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Grand Traverse,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2013,January,Houghton,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Huron,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Ingham,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Ingham,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,6,0
+2013,January,Ionia,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Iron,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Isabella,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Kalamazoo,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2013,January,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2013,January,Lapeer,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,January,Livingston,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2013,January,Livingston,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2013,January,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,January,Macomb,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,January,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,40,1,0
+2013,January,Mecosta,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2013,January,Mecosta,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2013,January,Mecosta,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Midland,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Midland,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Montcalm,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Muskegon,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,22,0
+2013,January,Muskegon,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Muskegon,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Newaygo,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,January,Oakland,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2013,January,Oakland,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,4,0
+2013,January,Oakland,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2013,January,Oakland,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,3,0
+2013,January,St. Joseph,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Schoolcraft,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Van Buren,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,January,Van Buren,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2013,January,Wayne,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2013,January,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,January,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2013,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,0
+2013,January,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Hit-and-Run,55,11,0
+2013,January,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,1
+2013,January,Wayne,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Wayne,Other/Unknown,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Wayne,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,40,2,0
+2013,January,Wexford,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,January,Wexford,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Antrim,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Arenac,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Arenac,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Benzie,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,February,Cass,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Charlevoix,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Crawford,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Eaton,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,50,2,0
+2013,February,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,1
+2013,February,Grand Traverse,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Gratiot,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,February,Ionia,Other/Unknown,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2013,February,Jackson,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Kalamazoo,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2013,February,Kalamazoo,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2013,February,Kent,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Lapeer,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Livingston,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Macomb,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,February,Macomb,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2013,February,Macomb,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,4,0
+2013,February,Monroe,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Monroe,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,February,Monroe,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2013,February,Monroe,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,February,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2013,February,Oakland,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,1
+2013,February,Ogemaw,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Osceola,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Otsego,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Roscommon,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Roscommon,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2013,February,Saginaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Sanilac,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Tuscola,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,February,Tuscola,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Van Buren,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,February,Van Buren,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2013,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2013,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2013,February,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,2,0
+2013,February,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2013,February,Wayne,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2013,February,Wayne,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,25,2,0
+2013,March,Barry,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Bay,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2013,March,Berrien,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Berrien,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,March,Calhoun,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,March,Calhoun,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Cass,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Cass,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Chippewa,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Crawford,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Delta,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,3,0
+2013,March,Genesee,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2013,March,Gladwin,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Jackson,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Jackson,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Jackson,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Jackson,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2013,March,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,March,Kent,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Livingston,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2013,March,Livingston,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,30,1,0
+2013,March,Mackinac,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2013,March,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2013,March,Macomb,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2013,March,Macomb,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2013,March,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2013,March,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2013,March,Monroe,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,4,0
+2013,March,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2013,March,Oakland,Sideswipe - Opposite Directions,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,3,0
+2013,March,Oakland,Rear-End,Drugs Involved,No Drinking Involved,Hit-and-Run,50,3,0
+2013,March,Oakland,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2013,March,Oakland,Sideswipe - Opposite Directions,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,3,0
+2013,March,Ottawa,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Ottawa,Other/Unknown,No Drugs Involved,Drinking Involved,Hit-and-Run,45,2,0
+2013,March,Roscommon,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Saginaw,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2013,March,Saginaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,March,Saginaw,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,3,0
+2013,March,Tuscola,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,March,Van Buren,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Washtenaw,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,March,Washtenaw,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2013,March,Washtenaw,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,March,Washtenaw,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2013,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2013,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2013,March,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,4,0
+2013,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,25,1,0
+2013,March,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Hit-and-Run,55,2,0
+2013,March,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,March,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2013,April,Berrien,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,April,Berrien,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2013,April,Cass,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Chippewa,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Delta,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Genesee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2013,April,Genesee,Other/Unknown,No Drugs Involved,Drinking Involved,Hit-and-Run,30,1,0
+2013,April,Hillsdale,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Jackson,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Kalamazoo,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2013,April,Kalkaska,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Kalkaska,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Kent,Rear-End - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Kent,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2013,April,Lapeer,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Lapeer,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2013,April,Livingston,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,April,Livingston,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2013,April,Mackinac,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Macomb,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2013,April,Macomb,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,3,0
+2013,April,Macomb,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2013,April,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2013,April,Monroe,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Montmorency,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2013,April,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Hit-and-Run,45,5,0
+2013,April,Oakland,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2013,April,Ottawa,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Ottawa,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2013,April,Saginaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,Saginaw,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2013,April,St. Clair,Sideswipe - Opposite Directions,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2013,April,St. Joseph,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,St. Joseph,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,April,Washtenaw,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2013,April,Washtenaw,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2013,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,1
+2013,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2013,April,Wayne,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2013,April,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2013,April,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2013,April,Wayne,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,30,2,0
+2013,April,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,35,1,0
+2013,April,Wayne,Other/Unknown,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2014,January,Barry,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,January,Bay,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,3,0
+2014,January,Cheboygan,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,January,Chippewa,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,January,Clinton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2014,January,Eaton,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,0
+2014,January,Genesee,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2014,January,Huron,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Huron,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Iron,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Jackson,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Lenawee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Livingston,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2014,January,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,70,1,0
+2014,January,Midland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,January,Monroe,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2014,January,Monroe,Sideswipe - Opposite Directions,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2014,January,Monroe,Head-On - Left Turn,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Muskegon,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Oakland,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,January,Otsego,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,1
+2014,January,Ottawa,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2014,January,Saginaw,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Sanilac,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,1
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,1
+2014,January,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,1
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,40,1,0
+2014,January,Wayne,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Hit-and-Run,25,1,0
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2014,January,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,February,Allegan,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2014,February,Allegan,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,February,Barry,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Bay,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,3,0
+2014,February,Benzie,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Branch,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2014,February,Calhoun,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2014,February,Eaton,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Genesee,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2014,February,Genesee,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2014,February,Gratiot,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Hillsdale,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Houghton,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2014,February,Ingham,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2014,February,Isabella,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2014,February,Isabella,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Kent,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,February,Kent,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Kent,Other/Unknown,No Drugs Involved,Drinking Involved,Hit-and-Run,55,2,0
+2014,February,Lapeer,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,February,Livingston,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Livingston,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2014,February,Livingston,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,February,Livingston,Rear-End,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2014,February,Macomb,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2014,February,Macomb,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,February,Macomb,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,40,1,0
+2014,February,Macomb,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,50,2,0
+2014,February,Mason,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Midland,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2014,February,Missaukee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Montcalm,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2014,February,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2014,February,Oakland,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,5,0
+2014,February,Ogemaw,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Ontonagon,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,February,Osceola,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Ottawa,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Ottawa,Sideswipe - Opposite Directions,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Roscommon,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,St. Joseph,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2014,February,Shiawassee,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2014,February,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2014,February,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2014,February,Washtenaw,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,4,0
+2014,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,1
+2014,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,1
+2014,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,February,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2014,February,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,February,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,25,1,0
+2014,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,30,1,0
+2014,February,Wayne,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,February,Wayne,Other/Unknown,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Barry,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,March,Bay,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,1,0
+2014,March,Berrien,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Berrien,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,March,Branch,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,March,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,60,1,0
+2014,March,Clinton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,1
+2014,March,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,March,Genesee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Genesee,Rear-End,No Drugs Involved,Drinking Involved,Hit-and-Run,35,2,0
+2014,March,Gladwin,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,March,Isabella,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2014,March,Jackson,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,March,Kalamazoo,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2014,March,Kalamazoo,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Kent,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,March,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2014,March,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,0
+2014,March,Kent,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2014,March,Kent,Sideswipe - Same Direction,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2014,March,Livingston,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,40,1,0
+2014,March,Livingston,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,March,Macomb,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2014,March,Monroe,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Montcalm,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Montcalm,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Montcalm,Sideswipe - Opposite Directions,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Montcalm,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Newaygo,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2014,March,Oakland,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,March,Oakland,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2014,March,St. Joseph,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,March,Van Buren,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Washtenaw,Other/Unknown,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,2,0
+2014,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,0
+2014,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2014,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2014,March,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,March,Wayne,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2014,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,30,1,1
+2014,March,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2014,March,Wexford,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Allegan,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2014,April,Alpena,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,April,Barry,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Bay,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Bay,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2014,April,Bay,Other/Unknown,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,April,Berrien,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Branch,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,55,1,0
+2014,April,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,0
+2014,April,Clinton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2014,April,Eaton,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Gladwin,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Grand Traverse,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Ingham,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,2,0
+2014,April,Jackson,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Jackson,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,3,0
+2014,April,Kalamazoo,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Kalamazoo,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,6,0
+2014,April,Kalkaska,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,April,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,1
+2014,April,Kent,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2014,April,Kent,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2014,April,Kent,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2014,April,Kent,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Livingston,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Livingston,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2014,April,Macomb,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2014,April,Monroe,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,April,Monroe,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,4,0
+2014,April,Monroe,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Montmorency,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Muskegon,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2014,April,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2014,April,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2014,April,Oakland,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,April,Oakland,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,15,1,0
+2014,April,Oakland,Head-On - Left Turn,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2014,April,Oceana,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,St. Clair,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,St. Joseph,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2014,April,St. Joseph,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Sanilac,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Tuscola,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Van Buren,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2014,April,Van Buren,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Van Buren,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2014,April,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2014,April,Washtenaw,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2014,April,Washtenaw,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,15,1,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,1
+2014,April,Wayne,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,2,0
+2014,April,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2014,April,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2014,April,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,25,1,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,30,1,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2014,April,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2014,April,Wayne,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,30,3,0
+2015,January,Antrim,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Baraga,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Berrien,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,January,Branch,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Cass,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Cass,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2015,January,Delta,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,January,Eaton,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,January,Genesee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,January,Grand Traverse,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Gratiot,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2015,January,Gratiot,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2015,January,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Kalamazoo,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Kalamazoo,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,58,0
+2015,January,Kalkaska,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,1
+2015,January,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,January,Kent,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2015,January,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,1
+2015,January,Kent,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Kent,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2015,January,Livingston,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2015,January,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,January,Macomb,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2015,January,Montcalm,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,January,Muskegon,Sideswipe - Opposite Directions,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Muskegon,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,0
+2015,January,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,January,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2015,January,Oakland,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2015,January,Oakland,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2015,January,Oakland,Rear-End,No Drugs Involved,Drinking Involved,Hit-and-Run,45,2,0
+2015,January,Oceana,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Presque Isle,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Saginaw,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,January,Sanilac,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Shiawassee,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Van Buren,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,January,Van Buren,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2015,January,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2015,January,Washtenaw,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,4,0
+2015,January,Washtenaw,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2015,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,January,Wayne,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2015,January,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,1
+2015,January,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2015,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,30,1,0
+2015,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,0
+2015,January,Wayne,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2015,January,Wayne,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2015,January,Wayne,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,30,2,0
+2015,January,Wayne,Other/Unknown,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2015,January,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,30,1,0
+2015,January,Wexford,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Allegan,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,0
+2015,February,Allegan,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,1
+2015,February,Allegan,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Bay,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Berrien,Head-On - Left Turn,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Calhoun,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Calhoun,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,2,0
+2015,February,Cass,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,February,Eaton,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Grand Traverse,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,February,Grand Traverse,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Ingham,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,4,0
+2015,February,Jackson,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,February,Kalkaska,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,February,Kent,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2015,February,Kent,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,3,0
+2015,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,February,Macomb,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2015,February,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2015,February,Mecosta,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2015,February,Missaukee,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Oakland,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2015,February,Saginaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,February,Sanilac,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,15,1,0
+2015,February,Van Buren,Other/Unknown,No Drugs Involved,Drinking Involved,Hit-and-Run,25,1,0
+2015,February,Washtenaw,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2015,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2015,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,February,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,February,Wayne,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2015,February,Wayne,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,3,0
+2015,March,Allegan,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,1
+2015,March,Barry,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,March,Branch,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,5,0
+2015,March,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,March,Cass,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Eaton,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,March,Eaton,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,30,1,0
+2015,March,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2015,March,Ingham,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,1,0
+2015,March,Ingham,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,March,Jackson,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,March,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,March,Lapeer,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Lapeer,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2015,March,Leelanau,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Livingston,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2015,March,Macomb,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,March,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2015,March,Montcalm,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,March,Muskegon,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Newaygo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,March,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2015,March,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,March,Oakland,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,March,Oakland,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,March,Oakland,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2015,March,Oakland,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2015,March,Oakland,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2015,March,Ottawa,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Ottawa,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,March,Saginaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Saginaw,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2015,March,St. Clair,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,March,St. Clair,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Tuscola,Sideswipe - Opposite Directions,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2015,March,Washtenaw,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,1
+2015,March,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2015,March,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,March,Wayne,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Hit-and-Run,25,1,0
+2015,March,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,25,1,0
+2015,March,Wayne,Angle,No Drugs Involved,Drinking Involved,Hit-and-Run,25,2,0
+2015,March,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2015,March,Wayne,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,25,2,0
+2015,March,Wexford,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Allegan,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2015,April,Barry,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,April,Bay,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Bay,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2015,April,Cass,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Eaton,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2015,April,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2015,April,Genesee,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Grand Traverse,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Ionia,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Isabella,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,April,Kalamazoo,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Kalamazoo,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2015,April,Kalamazoo,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2015,April,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2015,April,Kent,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Lenawee,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Livingston,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,April,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2015,April,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2015,April,Marquette,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,April,Menominee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Midland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Monroe,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Oakland,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,April,Oakland,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2015,April,Oakland,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,3,0
+2015,April,Oakland,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2015,April,Oakland,Rear-End,Drugs Involved,Drinking Involved,Not Hit-and-Run,70,3,0
+2015,April,Osceola,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,3,0
+2015,April,Ottawa,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Saginaw,Other/Unknown,No Drugs Involved,Drinking Involved,Hit-and-Run,55,1,0
+2015,April,Shiawassee,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Tuscola,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,April,Van Buren,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2015,April,Washtenaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2015,April,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,0
+2015,April,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2015,April,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,2,0
+2015,April,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2015,April,Wayne,Sideswipe - Opposite Directions,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2015,April,Wayne,Other/Unknown,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2015,April,Wayne,Angle,No Drugs Involved,No Drinking Involved,Hit-and-Run,,3,0
+2015,April,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Hit-and-Run,55,3,0
+2015,April,Wayne,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2015,April,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,1
+2015,April,Wayne,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,3,0
+2015,April,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,35,1,0
+2015,April,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,25,1,0
+2015,April,Wayne,Head-On - Left Turn,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2015,April,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Hit-and-Run,35,1,0
+2015,April,Wexford,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Alger,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Allegan,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2016,January,Bay,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,January,Berrien,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,3,0
+2016,January,Branch,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,January,Calhoun,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Cheboygan,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2016,January,Genesee,Other,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Genesee,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2016,January,Gratiot,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Isabella,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2016,January,Kalamazoo,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2016,January,Kalkaska,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,,1,0
+2016,January,Kalkaska,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2016,January,Kalkaska,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,January,Kent,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Lapeer,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Lapeer,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Lenawee,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Livingston,Other,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2016,January,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2016,January,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2016,January,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2016,January,Marquette,Head-On - Left Turn,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Marquette,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Montmorency,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2016,January,Oakland,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,3,0
+2016,January,Oakland,Other,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,3,0
+2016,January,Oceana,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Ottawa,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Ottawa,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2016,January,Ottawa,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2016,January,Saginaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,St. Clair,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,St. Clair,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,St. Clair,Sideswipe - Opposite Directions,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Schoolcraft,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Schoolcraft,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Tuscola,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,January,Van Buren,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,5,0
+2016,January,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,January,Washtenaw,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2016,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,1
+2016,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,January,Wayne,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,7,0
+2016,January,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,5,0
+2016,January,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2016,January,Wayne,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,4,0
+2016,January,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,40,1,0
+2016,January,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2016,January,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Hit-and-Run,25,1,0
+2016,February,Alger,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,,1,0
+2016,February,Berrien,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,February,Berrien,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Berrien,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Calhoun,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2016,February,Chippewa,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2016,February,Genesee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Genesee,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2016,February,Grand Traverse,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2016,February,Ingham,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Ingham,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,February,Ingham,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2016,February,Ionia,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Iosco,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2016,February,Kalamazoo,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2016,February,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2016,February,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2016,February,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Livingston,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Macomb,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2016,February,Macomb,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2016,February,Macomb,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,2,0
+2016,February,Macomb,Rear-End,Drugs Involved,Drinking Involved,Hit-and-Run,70,3,0
+2016,February,Marquette,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,,1,0
+2016,February,Monroe,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2016,February,Monroe,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Muskegon,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,February,Muskegon,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Muskegon,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2016,February,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,45,1,0
+2016,February,Oakland,Single Motor Vehicle,Drugs Involved,Drinking Involved,Hit-and-Run,40,1,0
+2016,February,Ogemaw,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Ottawa,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Ottawa,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Saginaw,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Saginaw,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,St. Clair,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,St. Joseph,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,St. Joseph,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Sanilac,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,February,Schoolcraft,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Van Buren,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Washtenaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2016,February,Washtenaw,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,1,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,February,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2016,February,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,0
+2016,February,Wayne,Angle,No Drugs Involved,No Drinking Involved,Hit-and-Run,25,2,0
+2016,February,Wayne,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2016,February,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,30,1,0
+2016,February,Wayne,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2016,February,Wayne,Rear-End - Left Turn,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2016,February,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,30,1,0
+2016,February,Wexford,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,3,0
+2016,March,Allegan,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,March,Cass,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2016,March,Cass,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2016,March,Chippewa,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,March,Clare,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Delta,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Eaton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,March,Eaton,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,March,Genesee,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,30,1,0
+2016,March,Genesee,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Gladwin,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Huron,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2016,March,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Kalamazoo,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Kent,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2016,March,Kent,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2016,March,Kent,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,2,0
+2016,March,Lenawee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Livingston,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,March,Livingston,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,March,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,,1,0
+2016,March,Macomb,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2016,March,Macomb,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,50,2,0
+2016,March,Missaukee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,March,Missaukee,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,March,Muskegon,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2016,March,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2016,March,Oakland,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2016,March,Oakland,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,30,1,0
+2016,March,Oceana,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,March,St. Clair,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2016,March,Shiawassee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,March,Wayne,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2016,March,Wayne,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2016,March,Wayne,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,3,0
+2016,March,Wayne,Other,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,3,0
+2016,March,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,30,1,0
+2016,April,Alcona,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Allegan,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Hit-and-Run,50,3,0
+2016,April,Allegan,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,,2,0
+2016,April,Allegan,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Barry,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Berrien,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Branch,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Branch,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Calhoun,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2016,April,Calhoun,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2016,April,Calhoun,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2016,April,Cass,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Cass,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Cass,Head-On - Left Turn,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Crawford,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,April,Eaton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Eaton,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Genesee,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2016,April,Genesee,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,4,0
+2016,April,Hillsdale,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Huron,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Ingham,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Ingham,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2016,April,Jackson,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,April,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2016,April,Kalamazoo,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2016,April,Kalamazoo,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,4,0
+2016,April,Kalamazoo,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2016,April,Kent,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Kent,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2016,April,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2016,April,Kent,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Kent,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2016,April,Kent,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,25,1,0
+2016,April,Lenawee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Lenawee,Rear-End - Left Turn,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2016,April,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2016,April,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,1
+2016,April,Macomb,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2016,April,Macomb,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Hit-and-Run,55,1,0
+2017,January,Allegan,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2017,January,Barry,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Berrien,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2017,January,Berrien,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2017,January,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Cass,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Cass,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Eaton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Emmet,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Genesee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Genesee,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2017,January,Genesee,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,0
+2017,January,Genesee,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2017,January,Hillsdale,Rear-End - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2017,January,Houghton,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Ingham,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,60,1,0
+2017,January,Ingham,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,1,0
+2017,January,Ingham,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Iron,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Isabella,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Isabella,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Kalamazoo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2017,January,Kalamazoo,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Hit-and-Run,70,2,0
+2017,January,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2017,January,Kent,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Kent,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Hit-and-Run,45,1,0
+2017,January,Kent,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Lapeer,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Lenawee,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Livingston,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Livingston,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2017,January,Macomb,Sideswipe - Opposite Directions,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,3,0
+2017,January,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,January,Macomb,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2017,January,Monroe,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,January,Monroe,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Montcalm,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Newaygo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,January,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2017,January,Oakland,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2017,January,Oakland,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2017,January,Oakland,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,50,2,0
+2017,January,Ogemaw,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Otsego,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Ottawa,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2017,January,Ottawa,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Saginaw,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Sanilac,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Shiawassee,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,25,1,0
+2017,January,Tuscola,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Washtenaw,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2017,January,Washtenaw,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,January,Washtenaw,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2017,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,1
+2017,January,Wayne,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2017,January,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,3,0
+2017,January,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,7,0
+2017,January,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2017,January,Wayne,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,2,0
+2017,January,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,1
+2017,January,Wayne,Angle,No Drugs Involved,No Drinking Involved,Hit-and-Run,25,2,0
+2017,January,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2017,January,Wayne,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,40,2,0
+2017,January,Wayne,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,January,Wayne,Other,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,1,0
+2017,January,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,January,Wexford,Other,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,February,Bay,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2017,February,Cass,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,February,Cass,Rear-End,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,February,Crawford,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Delta,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Eaton,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,February,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2017,February,Huron,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,February,Ingham,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2017,February,Ionia,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,February,Jackson,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2017,February,Kent,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2017,February,Kent,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2017,February,Kent,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Kent,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,February,Kent,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,February,Kent,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,3,0
+2017,February,Lenawee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Livingston,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2017,February,Livingston,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,February,Luce,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2017,February,Macomb,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,1,0
+2017,February,Macomb,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,February,Marquette,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2017,February,Montcalm,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,February,Muskegon,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,3,0
+2017,February,Muskegon,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Newaygo,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Newaygo,Angle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,February,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2017,February,Oakland,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2017,February,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,1
+2017,February,Oakland,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,February,Presque Isle,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,St. Clair,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2017,February,St. Joseph,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,February,Shiawassee,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2017,February,Washtenaw,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,50,1,0
+2017,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2017,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,February,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,45,1,0
+2017,February,Wayne,Other,No Drugs Involved,No Drinking Involved,Hit-and-Run,35,1,0
+2017,February,Wayne,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,3,0
+2017,February,Wayne,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2017,February,Wayne,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,1
+2017,February,Wayne,Head-On,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2017,February,Wayne,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,70,2,0
+2017,February,Wayne,Single Motor Vehicle,Drugs Involved,Drinking Involved,Hit-and-Run,25,1,0
+2017,February,Wayne,Angle,Drugs Involved,Drinking Involved,Hit-and-Run,25,2,0
+2017,March,Allegan,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Allegan,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,March,Allegan,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Berrien,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2017,March,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,1,0
+2017,March,Calhoun,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Calhoun,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,35,2,0
+2017,March,Clare,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Delta,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Eaton,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,March,Eaton,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Genesee,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,1,0
+2017,March,Genesee,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,50,2,0
+2017,March,Genesee,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,25,1,0
+2017,March,Grand Traverse,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Ionia,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Iosco,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2017,March,Isabella,Sideswipe - Opposite Directions,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Kalamazoo,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Kalamazoo,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Kalamazoo,Head-On,No Drugs Involved,Drinking Involved,Hit-and-Run,70,5,0
+2017,March,Kalamazoo,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2017,March,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,2,0
+2017,March,Kent,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Kent,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Kent,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2017,March,Kent,Rear-End,Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,2,0
+2017,March,Kent,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,40,1,0
+2017,March,Kent,Head-On - Left Turn,No Drugs Involved,Drinking Involved,Not Hit-and-Run,30,2,0
+2017,March,Kent,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,35,1,0
+2017,March,Kent,Angle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Livingston,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,70,1,0
+2017,March,Macomb,Head-On,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,2,0
+2017,March,Macomb,Angle,Drugs Involved,Drinking Involved,Hit-and-Run,35,4,0
+2017,March,Manistee,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2017,March,Marquette,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Mecosta,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Midland,Head-On - Left Turn,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Monroe,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,3,0
+2017,March,Monroe,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,March,Montcalm,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Montcalm,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Newaygo,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Oakland,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,3,0
+2017,March,Oakland,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,1,0
+2017,March,Oakland,Head-On,Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2017,March,Oakland,Other,No Drugs Involved,Drinking Involved,Hit-and-Run,30,2,0
+2017,March,Oakland,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,March,Ogemaw,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Roscommon,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Saginaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,2,0
+2017,March,Saginaw,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Saginaw,Single Motor Vehicle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,25,1,0
+2017,March,Schoolcraft,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Shiawassee,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Tuscola,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Tuscola,Single Motor Vehicle,Drugs Involved,Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Van Buren,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,1,0
+2017,March,Washtenaw,Sideswipe - Same Direction,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,3,0
+2017,March,Washtenaw,Single Motor Vehicle,No Drugs Involved,Drinking Involved,Not Hit-and-Run,45,1,0
+2017,March,Wayne,Head-On,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2017,March,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,30,2,0
+2017,March,Wayne,Angle,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,40,2,0
+2017,March,Wayne,Rear-End,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,55,2,0
+2017,March,Wayne,Other,No Drugs Involved,No Drinking Involved,Not Hit-and-Run,45,2,0
+2017,March,Wayne,Single Motor Vehicle,No Drugs Involved,No Drinking Involved,Hit-and-Run,25,1,0
+2017,March,Wayne,Angle,Drugs Involved,No Drinking Involved,Not Hit-and-Run,35,4,0
+2017,March,Wayne,Rear-End,No Drugs Involved,Drinking Involved,Not Hit-and-Run,40,3,1
+2017,March,Wayne,Sideswipe - Same Direction,No Drugs Involved,Drinking Involved,Not Hit-and-Run,25,2,0
+2017,March,Wayne,Angle,Drugs Involved,Drinking Involved,Hit-and-Run,25,2,0

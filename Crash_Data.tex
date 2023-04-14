@@ -1,0 +1,588 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={CrashData Analysis},
+  pdfauthor={Student},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{CrashData Analysis}
+\author{Student}
+\date{2023-04-12}
+
+\begin{document}
+\maketitle
+
+\hypertarget{load-the-required-libraries}{%
+\subsubsection{Load the required
+libraries}\label{load-the-required-libraries}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggplot2)}
+\FunctionTok{library}\NormalTok{(dplyr)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Attaching package: 'dplyr'
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:stats':
+## 
+##     filter, lag
+\end{verbatim}
+
+\begin{verbatim}
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(tidyr)}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{read-the-csv-file-and-store-it-in-a-data-frame}{%
+\subsubsection{Read the CSV file and store it in a data
+frame}\label{read-the-csv-file-and-store-it-in-a-data-frame}}
+
+We can see top elements of the data.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Read the CSV file and store it in a data frame}
+\NormalTok{crash\_data }\OtherTok{\textless{}{-}} \FunctionTok{read.csv}\NormalTok{(}\StringTok{"crash\_data.csv"}\NormalTok{)}
+\FunctionTok{head}\NormalTok{(crash\_data)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   Crash_Year Crash_Month  County           Crash_Type    Crash_Drug_Use
+## 1       2013     January   Barry              Head-On No Drugs Involved
+## 2       2013     January   Barry             Rear-End No Drugs Involved
+## 3       2013     January     Bay Single Motor Vehicle No Drugs Involved
+## 4       2013     January Berrien             Rear-End No Drugs Involved
+## 5       2013     January  Branch                Angle No Drugs Involved
+## 6       2013     January Calhoun  Head-On - Left Turn No Drugs Involved
+##         Crash_Drinking Crash_Hit_and_Run Speed_Limit_at_Crash_Site
+## 1 No Drinking Involved   Not Hit-and-Run                        55
+## 2 No Drinking Involved   Not Hit-and-Run                        55
+## 3 No Drinking Involved   Not Hit-and-Run                        55
+## 4 No Drinking Involved   Not Hit-and-Run                        70
+## 5 No Drinking Involved   Not Hit-and-Run                        55
+## 6    Drinking Involved   Not Hit-and-Run                        45
+##   Total_Motor_Vehicles Crash
+## 1                    2     0
+## 2                    2     0
+## 3                    1     0
+## 4                    2     0
+## 5                    2     0
+## 6                    2     0
+\end{verbatim}
+
+\hypertarget{visualisation}{%
+\section{Visualisation}\label{visualisation}}
+
+\hypertarget{check-the-structure-of-the-data-frame}{%
+\subsubsection{Check the structure of the data
+frame}\label{check-the-structure-of-the-data-frame}}
+
+We can see that the data is mix of Int and Chars.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{str}\NormalTok{(crash\_data)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 'data.frame':    1000 obs. of  10 variables:
+##  $ Crash_Year               : int  2013 2013 2013 2013 2013 2013 2013 2013 2013 2013 ...
+##  $ Crash_Month              : chr  "January" "January" "January" "January" ...
+##  $ County                   : chr  "Barry" "Barry" "Bay" "Berrien" ...
+##  $ Crash_Type               : chr  "Head-On" "Rear-End" "Single Motor Vehicle" "Rear-End" ...
+##  $ Crash_Drug_Use           : chr  "No Drugs Involved" "No Drugs Involved" "No Drugs Involved" "No Drugs Involved" ...
+##  $ Crash_Drinking           : chr  "No Drinking Involved" "No Drinking Involved" "No Drinking Involved" "No Drinking Involved" ...
+##  $ Crash_Hit_and_Run        : chr  "Not Hit-and-Run" "Not Hit-and-Run" "Not Hit-and-Run" "Not Hit-and-Run" ...
+##  $ Speed_Limit_at_Crash_Site: int  55 55 55 70 55 45 55 55 55 55 ...
+##  $ Total_Motor_Vehicles     : int  2 2 1 2 2 2 1 2 2 1 ...
+##  $ Crash                    : int  0 0 0 0 0 0 0 0 0 0 ...
+\end{verbatim}
+
+\hypertarget{checking-na-values}{%
+\subsubsection{checking NA values}\label{checking-na-values}}
+
+There are 6 NA values in Speed Limit column, So imputing with mean.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{sum}\NormalTok{(}\FunctionTok{is.na}\NormalTok{(crash\_data))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 6
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\ControlFlowTok{for}\NormalTok{(i }\ControlFlowTok{in} \DecValTok{1}\SpecialCharTok{:}\FunctionTok{ncol}\NormalTok{(crash\_data))\{}
+\NormalTok{  crash\_data[}\FunctionTok{is.na}\NormalTok{(crash\_data[,i]), i] }\OtherTok{\textless{}{-}} \FunctionTok{mean}\NormalTok{(crash\_data[,i], }\AttributeTok{na.rm =} \ConstantTok{TRUE}\NormalTok{)}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning in mean.default(crash_data[, i], na.rm = TRUE): argument is not numeric
+## or logical: returning NA
+
+## Warning in mean.default(crash_data[, i], na.rm = TRUE): argument is not numeric
+## or logical: returning NA
+
+## Warning in mean.default(crash_data[, i], na.rm = TRUE): argument is not numeric
+## or logical: returning NA
+
+## Warning in mean.default(crash_data[, i], na.rm = TRUE): argument is not numeric
+## or logical: returning NA
+
+## Warning in mean.default(crash_data[, i], na.rm = TRUE): argument is not numeric
+## or logical: returning NA
+
+## Warning in mean.default(crash_data[, i], na.rm = TRUE): argument is not numeric
+## or logical: returning NA
+\end{verbatim}
+
+\hypertarget{create-a-bar-chart-of-the-number-of-crashes-by-county}{%
+\subsubsection{Create a bar chart of the number of crashes by
+county}\label{create-a-bar-chart-of-the-number-of-crashes-by-county}}
+
+We can see that Wayne county has highest number of crashes.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{crash\_count\_by\_county }\OtherTok{\textless{}{-}}\NormalTok{ crash\_data }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{group\_by}\NormalTok{(County) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{summarise}\NormalTok{(}\AttributeTok{count =} \FunctionTok{n}\NormalTok{()) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{arrange}\NormalTok{(}\FunctionTok{desc}\NormalTok{(count)) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{head}\NormalTok{(}\DecValTok{10}\NormalTok{)}
+
+\FunctionTok{ggplot}\NormalTok{(crash\_count\_by\_county, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ County, }\AttributeTok{y =}\NormalTok{ count, }\AttributeTok{fill =}\NormalTok{ County)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Top 10 Counties by Number of Crashes"}\NormalTok{, }\AttributeTok{x =} \StringTok{"County"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Number of Crashes"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Crash_Data_files/figure-latex/unnamed-chunk-5-1.pdf}
+
+\hypertarget{create-a-scatter-plot-of-speed-limit-vs-number-of-vehicles-involved}{%
+\subsubsection{Create a scatter plot of speed limit vs number of
+vehicles
+involved}\label{create-a-scatter-plot-of-speed-limit-vs-number-of-vehicles-involved}}
+
+It has been observed that As the Speed Limit increases the vehicle
+including in crash increases.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(crash\_data, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ Speed\_Limit\_at\_Crash\_Site, }\AttributeTok{y =}\NormalTok{ Total\_Motor\_Vehicles)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_point}\NormalTok{(}\AttributeTok{alpha =} \FloatTok{0.5}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Speed Limit vs Number of Vehicles Involved in Crashes"}\NormalTok{, }\AttributeTok{x =} \StringTok{"Speed Limit at Crash Site"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Number of Vehicles Involved"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Crash_Data_files/figure-latex/unnamed-chunk-6-1.pdf}
+
+\hypertarget{create-a-stacked-bar-chart-of-the-number-of-crashes-by-crash-type-and-drug-use}{%
+\subsubsection{Create a stacked bar chart of the number of crashes by
+crash type and drug
+use}\label{create-a-stacked-bar-chart-of-the-number-of-crashes-by-crash-type-and-drug-use}}
+
+\begin{itemize}
+\tightlist
+\item
+  People Driving single has more number of crashes.
+\item
+  Head on and angle has the similar number of crashes.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{crash\_count\_by\_type\_and\_drug\_use }\OtherTok{\textless{}{-}}\NormalTok{ crash\_data }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{group\_by}\NormalTok{(Crash\_Type, Crash\_Drug\_Use) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{summarise}\NormalTok{(}\AttributeTok{count =} \FunctionTok{n}\NormalTok{()) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{arrange}\NormalTok{(}\FunctionTok{desc}\NormalTok{(count))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## `summarise()` has grouped output by 'Crash_Type'. You can override using the
+## `.groups` argument.
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(crash\_count\_by\_type\_and\_drug\_use, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ Crash\_Type, }\AttributeTok{y =}\NormalTok{ count, }\AttributeTok{fill =}\NormalTok{ Crash\_Drug\_Use)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Number of Crashes by Crash Type and Drug Use"}\NormalTok{, }\AttributeTok{x =} \StringTok{"Crash Type"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Number of Crashes"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Crash_Data_files/figure-latex/unnamed-chunk-7-1.pdf}
+
+\hypertarget{heatmap-of-crashes-by-month-and-county}{%
+\subsubsection{Heatmap of crashes by month and
+county}\label{heatmap-of-crashes-by-month-and-county}}
+
+It is difficult to find info from Heatmap. But We can see that Wayne
+county has highest number of crashes and most are between Jan to Feb.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{crash\_count\_by\_month\_and\_county }\OtherTok{\textless{}{-}}\NormalTok{ crash\_data }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{group\_by}\NormalTok{(Crash\_Month, County) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{summarise}\NormalTok{(}\AttributeTok{count =} \FunctionTok{n}\NormalTok{()) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{arrange}\NormalTok{(Crash\_Month, County)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## `summarise()` has grouped output by 'Crash_Month'. You can override using the
+## `.groups` argument.
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(crash\_count\_by\_month\_and\_county, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ County, }\AttributeTok{y =}\NormalTok{ Crash\_Month, }\AttributeTok{fill =}\NormalTok{ count)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_tile}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{scale\_fill\_gradient}\NormalTok{(}\AttributeTok{low =} \StringTok{"white"}\NormalTok{, }\AttributeTok{high =} \StringTok{"red"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Heatmap of Crashes by Month and County"}\NormalTok{, }\AttributeTok{x =} \StringTok{"County"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Month"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Crash_Data_files/figure-latex/unnamed-chunk-8-1.pdf}
+
+\hypertarget{box-plot-of-speed-limit-by-crash-type}{%
+\subsubsection{Box plot of speed limit by crash
+type}\label{box-plot-of-speed-limit-by-crash-type}}
+
+We can see some type has outliers but most of the medians are at the
+upper level, this may be because most of the accidents happens at high
+speed and most with sideswipe and angle.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(crash\_data, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ Crash\_Type, }\AttributeTok{y =}\NormalTok{ Speed\_Limit\_at\_Crash\_Site)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_boxplot}\NormalTok{() }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Box Plot of Speed Limit by Crash Type"}\NormalTok{, }\AttributeTok{x =} \StringTok{"Crash Type"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Speed Limit at Crash Site"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Crash_Data_files/figure-latex/unnamed-chunk-9-1.pdf}
+
+\hypertarget{stacked-bar-chart-of-crashes-by-crash-type-and-drinking-involvement}{%
+\subsubsection{Stacked bar chart of crashes by crash type and drinking
+involvement}\label{stacked-bar-chart-of-crashes-by-crash-type-and-drinking-involvement}}
+
+\begin{itemize}
+\tightlist
+\item
+  Please Driving single has more number of crashes.
+\item
+  Head on and angle has the similar number of crashes.
+\end{itemize}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{crash\_count\_by\_type\_and\_drinking }\OtherTok{\textless{}{-}}\NormalTok{ crash\_data }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{group\_by}\NormalTok{(Crash\_Type, Crash\_Drinking) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{summarise}\NormalTok{(}\AttributeTok{count =} \FunctionTok{n}\NormalTok{()) }\SpecialCharTok{\%\textgreater{}\%}
+  \FunctionTok{arrange}\NormalTok{(}\FunctionTok{desc}\NormalTok{(count))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## `summarise()` has grouped output by 'Crash_Type'. You can override using the
+## `.groups` argument.
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggplot}\NormalTok{(crash\_count\_by\_type\_and\_drinking, }\FunctionTok{aes}\NormalTok{(}\AttributeTok{x =}\NormalTok{ Crash\_Type, }\AttributeTok{y =}\NormalTok{ count, }\AttributeTok{fill =}\NormalTok{ Crash\_Drinking)) }\SpecialCharTok{+}
+  \FunctionTok{geom\_bar}\NormalTok{(}\AttributeTok{stat =} \StringTok{"identity"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{labs}\NormalTok{(}\AttributeTok{title =} \StringTok{"Number of Crashes by Crash Type and Drinking Involvement"}\NormalTok{, }\AttributeTok{x =} \StringTok{"Crash Type"}\NormalTok{, }\AttributeTok{y =} \StringTok{"Number of Crashes"}\NormalTok{) }\SpecialCharTok{+}
+  \FunctionTok{theme}\NormalTok{(}\AttributeTok{axis.text.x =} \FunctionTok{element\_text}\NormalTok{(}\AttributeTok{angle =} \DecValTok{45}\NormalTok{, }\AttributeTok{hjust =} \DecValTok{1}\NormalTok{))}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Crash_Data_files/figure-latex/unnamed-chunk-10-1.pdf}
+
+\hypertarget{statistical-analysis}{%
+\section{Statistical Analysis}\label{statistical-analysis}}
+
+\hypertarget{hypothesis-test-for-the-difference-in-means-of-speed-limit-between-injury-and-fatal-crashes}{%
+\subsubsection{Hypothesis test for the difference in means of speed
+limit between injury and fatal
+crashes:}\label{hypothesis-test-for-the-difference-in-means-of-speed-limit-between-injury-and-fatal-crashes}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Subset data for injury and fatal crashes}
+\NormalTok{injury\_data }\OtherTok{\textless{}{-}} \FunctionTok{subset}\NormalTok{(crash\_data, Crash }\SpecialCharTok{==} \DecValTok{0}\NormalTok{)}
+\NormalTok{fatal\_data }\OtherTok{\textless{}{-}} \FunctionTok{subset}\NormalTok{(crash\_data, Crash }\SpecialCharTok{==} \DecValTok{1}\NormalTok{)}
+
+\CommentTok{\# Conduct t{-}test for difference in means}
+\NormalTok{t\_test\_result }\OtherTok{\textless{}{-}} \FunctionTok{t.test}\NormalTok{(injury\_data}\SpecialCharTok{$}\NormalTok{Speed\_Limit\_at\_Crash\_Site, fatal\_data}\SpecialCharTok{$}\NormalTok{Speed\_Limit\_at\_Crash\_Site)}
+
+\CommentTok{\# Print results}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"t{-}test for difference in means of speed limit between injury and fatal crashes:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## t-test for difference in means of speed limit between injury and fatal crashes:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\StringTok{"t{-}value:"}\NormalTok{, t\_test\_result}\SpecialCharTok{$}\NormalTok{statistic, }\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## t-value: 0.3511422
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{cat}\NormalTok{(}\StringTok{"p{-}value:"}\NormalTok{, t\_test\_result}\SpecialCharTok{$}\NormalTok{p.value, }\StringTok{"}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## p-value: 0.7281002
+\end{verbatim}
+
+The t-test results show the t-value and p-value for the difference in
+means of speed limit between injury and fatal crashes. The t-value
+represents the difference in means divided by the standard error of the
+difference. The p-value represents the probability of observing a
+t-value as extreme or more extreme than the observed t-value, assuming
+the null hypothesis that the means are equal. A small p-value (less than
+the significance level, typically 0.05) indicates strong evidence
+against the null hypothesis and in favor of the alternative hypothesis
+that the means are different. In this case, if the p-value is large, we
+can conclude that there is NO significant difference in the mean speed
+limit between injury and fatal crashes.
+
+\hypertarget{logistic-regression-to-predict-the-likelihood-of-a-fatal-crash-based-on-crash-type-and-drinking-involvement}{%
+\subsubsection{Logistic regression to predict the likelihood of a fatal
+crash based on crash type and drinking
+involvement:}\label{logistic-regression-to-predict-the-likelihood-of-a-fatal-crash-based-on-crash-type-and-drinking-involvement}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Create binary variables for crash type and drinking involvement}
+\NormalTok{crash\_data}\SpecialCharTok{$}\NormalTok{Crash\_Type\_Binary }\OtherTok{\textless{}{-}} \FunctionTok{ifelse}\NormalTok{(crash\_data}\SpecialCharTok{$}\NormalTok{Crash\_Type }\SpecialCharTok{\%in\%} \FunctionTok{c}\NormalTok{(}\StringTok{"Head{-}On"}\NormalTok{, }\StringTok{"Rear{-}End"}\NormalTok{), }\DecValTok{0}\NormalTok{, }\DecValTok{1}\NormalTok{)}
+\NormalTok{crash\_data}\SpecialCharTok{$}\NormalTok{Drinking\_Binary }\OtherTok{\textless{}{-}} \FunctionTok{ifelse}\NormalTok{(crash\_data}\SpecialCharTok{$}\NormalTok{Crash\_Drinking }\SpecialCharTok{==} \StringTok{"Drinking Involved"}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+
+\CommentTok{\# Fit logistic regression model}
+\NormalTok{log\_reg\_model }\OtherTok{\textless{}{-}} \FunctionTok{glm}\NormalTok{(Crash }\SpecialCharTok{\textasciitilde{}}\NormalTok{ Crash\_Type\_Binary }\SpecialCharTok{+}\NormalTok{ Drinking\_Binary, }\AttributeTok{data =}\NormalTok{ crash\_data, }\AttributeTok{family =} \StringTok{"binomial"}\NormalTok{)}
+
+\CommentTok{\# Print model summary}
+\FunctionTok{summary}\NormalTok{(log\_reg\_model)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## Call:
+## glm(formula = Crash ~ Crash_Type_Binary + Drinking_Binary, family = "binomial", 
+##     data = crash_data)
+## 
+## Deviance Residuals: 
+##     Min       1Q   Median       3Q      Max  
+## -0.2828  -0.2828  -0.2198  -0.1671   3.0933  
+## 
+## Coefficients:
+##                   Estimate Std. Error z value Pr(>|z|)    
+## (Intercept)        -3.7110     0.4565  -8.130  4.3e-16 ***
+## Crash_Type_Binary   0.5118     0.5001   1.024   0.3060    
+## Drinking_Binary    -1.0649     0.5451  -1.954   0.0507 .  
+## ---
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+## 
+## (Dispersion parameter for binomial family taken to be 1)
+## 
+##     Null deviance: 255.44  on 999  degrees of freedom
+## Residual deviance: 249.74  on 997  degrees of freedom
+## AIC: 255.74
+## 
+## Number of Fisher Scoring iterations: 7
+\end{verbatim}
+
+The logistic regression model results show the coefficients, standard
+errors, z-values, and p-values for the binary variables for crash type
+and drinking involvement. The coefficients represent the log-odds of a
+fatal crash associated with each variable, holding all other variables
+constant. The standard errors represent the uncertainty in the
+coefficient estimates. The z-values are the coefficients divided by
+their standard errors, which are used to calculate the p-values. A small
+p-value (less than the significance level, typically 0.05) for a
+coefficient indicates strong evidence that the variable is associated
+with the outcome. In this case, if the p-values for the crash type and
+drinking involvement variables are small, we can conclude that these
+variables are significant predictors of the likelihood of a fatal crash.
+
+\hypertarget{anova-for-the-effect-of-county-on-the-number-of-vehicles-involved-in-a-crash}{%
+\subsubsection{ANOVA for the effect of county on the number of vehicles
+involved in a
+crash:}\label{anova-for-the-effect-of-county-on-the-number-of-vehicles-involved-in-a-crash}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{\# Fit ANOVA model}
+\NormalTok{anova\_result }\OtherTok{\textless{}{-}} \FunctionTok{aov}\NormalTok{(Total\_Motor\_Vehicles }\SpecialCharTok{\textasciitilde{}}\NormalTok{ County, }\AttributeTok{data =}\NormalTok{ crash\_data)}
+
+\CommentTok{\# Print results}
+\FunctionTok{cat}\NormalTok{(}\StringTok{"ANOVA for effect of county on number of vehicles involved in a crash:}\SpecialCharTok{\textbackslash{}n}\StringTok{"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## ANOVA for effect of county on number of vehicles involved in a crash:
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{summary}\NormalTok{(anova\_result)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##              Df Sum Sq Mean Sq F value Pr(>F)
+## County       77    172   2.230   0.501      1
+## Residuals   922   4101   4.448
+\end{verbatim}
+
+The ANOVA results show the sum of squares, degrees of freedom, mean
+squares, F-value, and p-value for the effect of county on the number of
+vehicles involved in a crash. The sum of squares represents the
+variation explained by the county variable, and the degrees of freedom
+represent the number of categories minus one. The mean squares are the
+sum of squares divided by the degrees of freedom. The F-value is the
+mean square for county divided by the mean square for error (unexplained
+variation), which is used to calculate the p-value. A small p-value
+(less than the significance level, typically 0.05) indicates strong
+evidence against the null hypothesis that the means are equal and in
+favor of the alternative hypothesis that there is a significant effect
+of county on the number of vehicles involved in a crash. In this case,
+if the p-value is large, we can conclude that there is No significant
+effect of county on the number of vehicles involved in a crash.
+
+\end{document}

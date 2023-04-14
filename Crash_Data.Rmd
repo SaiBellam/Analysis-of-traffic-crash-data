@@ -1,0 +1,188 @@
+---
+title: "CrashData Analysis"
+author: "Sai Bargav Chowdary Bellam","Ajay reddy Gaddampally"
+date: "2023-04-12"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+### Load the required libraries
+```{r}
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+```
+
+### Read the CSV file and store it in a data frame
+We can see top elements of the data.
+```{r}
+# Read the CSV file and store it in a data frame
+crash_data <- read.csv("crash_data.csv")
+head(crash_data)
+
+```
+
+# Visualisation
+
+### Check the structure of the data frame
+We can see that the data is mix of Int and Chars.
+```{r}
+str(crash_data)
+```
+
+
+### checking NA values
+There are 6 NA values in Speed Limit column, So imputing with mean.
+```{r}
+sum(is.na(crash_data))
+for(i in 1:ncol(crash_data)){
+  crash_data[is.na(crash_data[,i]), i] <- mean(crash_data[,i], na.rm = TRUE)
+}
+```
+
+
+### Create a bar chart of the number of crashes by county
+We can see that Wayne county has highest number of crashes.
+```{r}
+crash_count_by_county <- crash_data %>%
+  group_by(County) %>%
+  summarise(count = n()) %>%
+  arrange(desc(count)) %>%
+  head(10)
+
+ggplot(crash_count_by_county, aes(x = County, y = count, fill = County)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Top 10 Counties by Number of Crashes", x = "County", y = "Number of Crashes") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+### Create a scatter plot of speed limit vs number of vehicles involved
+It has been observed that As the Speed Limit increases the vehicle including in crash increases.
+```{r}
+ggplot(crash_data, aes(x = Speed_Limit_at_Crash_Site, y = Total_Motor_Vehicles)) +
+  geom_point(alpha = 0.5) +
+  labs(title = "Speed Limit vs Number of Vehicles Involved in Crashes", x = "Speed Limit at Crash Site", y = "Number of Vehicles Involved")
+
+```
+
+
+### Create a stacked bar chart of the number of crashes by crash type and drug use
+- People Driving single has more number of crashes.
+- Head on and angle has the similar number of crashes.
+```{r}
+crash_count_by_type_and_drug_use <- crash_data %>%
+  group_by(Crash_Type, Crash_Drug_Use) %>%
+  summarise(count = n()) %>%
+  arrange(desc(count))
+
+ggplot(crash_count_by_type_and_drug_use, aes(x = Crash_Type, y = count, fill = Crash_Drug_Use)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Number of Crashes by Crash Type and Drug Use", x = "Crash Type", y = "Number of Crashes") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+
+
+### Heatmap of crashes by month and county
+It is difficult to find info from Heatmap. But We can see that Wayne county has highest number of crashes and most are between Jan to Feb.
+```{r}
+crash_count_by_month_and_county <- crash_data %>%
+  group_by(Crash_Month, County) %>%
+  summarise(count = n()) %>%
+  arrange(Crash_Month, County)
+
+ggplot(crash_count_by_month_and_county, aes(x = County, y = Crash_Month, fill = count)) +
+  geom_tile() +
+  scale_fill_gradient(low = "white", high = "red") +
+  labs(title = "Heatmap of Crashes by Month and County", x = "County", y = "Month") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+```
+
+
+
+### Box plot of speed limit by crash type
+We can see some type has outliers but most of the medians are at the upper level, this may be because most of the accidents happens  at high speed  and most with sideswipe and angle.
+```{r}
+ggplot(crash_data, aes(x = Crash_Type, y = Speed_Limit_at_Crash_Site)) +
+  geom_boxplot() +
+  labs(title = "Box Plot of Speed Limit by Crash Type", x = "Crash Type", y = "Speed Limit at Crash Site") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+```
+
+
+
+
+### Stacked bar chart of crashes by crash type and drinking involvement
+- Please Driving single has more number of crashes.
+- Head on and angle has the similar number of crashes.
+```{r}
+crash_count_by_type_and_drinking <- crash_data %>%
+  group_by(Crash_Type, Crash_Drinking) %>%
+  summarise(count = n()) %>%
+  arrange(desc(count))
+
+ggplot(crash_count_by_type_and_drinking, aes(x = Crash_Type, y = count, fill = Crash_Drinking)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Number of Crashes by Crash Type and Drinking Involvement", x = "Crash Type", y = "Number of Crashes") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+# Statistical Analysis
+
+### Hypothesis test for the difference in means of speed limit between injury and fatal crashes:
+```{r}
+# Subset data for injury and fatal crashes
+injury_data <- subset(crash_data, Crash == 0)
+fatal_data <- subset(crash_data, Crash == 1)
+
+# Conduct t-test for difference in means
+t_test_result <- t.test(injury_data$Speed_Limit_at_Crash_Site, fatal_data$Speed_Limit_at_Crash_Site)
+
+# Print results
+cat("t-test for difference in means of speed limit between injury and fatal crashes:\n")
+cat("t-value:", t_test_result$statistic, "\n")
+cat("p-value:", t_test_result$p.value, "\n")
+```
+The t-test results show the t-value and p-value for the difference in means of speed limit between injury and fatal crashes. The t-value represents the difference in means divided by the standard error of the difference. The p-value represents the probability of observing a t-value as extreme or more extreme than the observed t-value, assuming the null hypothesis that the means are equal. A small p-value (less than the significance level, typically 0.05) indicates strong evidence against the null hypothesis and in favor of the alternative hypothesis that the means are different. In this case, if the p-value is large, we can conclude that there is NO significant difference in the mean speed limit between injury and fatal crashes.
+
+
+
+### Logistic regression to predict the likelihood of a fatal crash based on crash type and drinking involvement:
+```{r}
+# Create binary variables for crash type and drinking involvement
+crash_data$Crash_Type_Binary <- ifelse(crash_data$Crash_Type %in% c("Head-On", "Rear-End"), 0, 1)
+crash_data$Drinking_Binary <- ifelse(crash_data$Crash_Drinking == "Drinking Involved", 1, 0)
+
+# Fit logistic regression model
+log_reg_model <- glm(Crash ~ Crash_Type_Binary + Drinking_Binary, data = crash_data, family = "binomial")
+
+# Print model summary
+summary(log_reg_model)
+```
+The logistic regression model results show the coefficients, standard errors, z-values, and p-values for the binary variables for crash type and drinking involvement. The coefficients represent the log-odds of a fatal crash associated with each variable, holding all other variables constant. The standard errors represent the uncertainty in the coefficient estimates. The z-values are the coefficients divided by their standard errors, which are used to calculate the p-values. A small p-value (less than the significance level, typically 0.05) for a coefficient indicates strong evidence that the variable is associated with the outcome. In this case, if the p-values for the crash type and drinking involvement variables are small, we can conclude that these variables are significant predictors of the likelihood of a fatal crash.
+
+
+### ANOVA for the effect of county on the number of vehicles involved in a crash:
+```{r}
+# Fit ANOVA model
+anova_result <- aov(Total_Motor_Vehicles ~ County, data = crash_data)
+
+# Print results
+cat("ANOVA for effect of county on number of vehicles involved in a crash:\n")
+summary(anova_result)
+
+```
+The ANOVA results show the sum of squares, degrees of freedom, mean squares, F-value, and p-value for the effect of county on the number of vehicles involved in a crash. The sum of squares represents the variation explained by the county variable, and the degrees of freedom represent the number of categories minus one. The mean squares are the sum of squares divided by the degrees of freedom. The F-value is the mean square for county divided by the mean square for error (unexplained variation), which is used to calculate the p-value. A small p-value (less than the significance level, typically 0.05) indicates strong evidence against the null hypothesis that the means are equal and in favor of the alternative hypothesis that there is a significant effect of county on the number of vehicles involved in a crash. In this case, if the p-value is large, we can conclude that there is No significant effect of county on the number of vehicles involved in a crash.
+
+
+
+
+
